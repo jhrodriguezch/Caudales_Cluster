@@ -2,3 +2,10 @@ numpy
 pandas
 ipywidgets
 voila
+
+psutil
+toolz
+dill
+partd
+bokeh
+dask
